@@ -1,5 +1,5 @@
 # MindSchool_backend
-
+本项目来源于互联网，仅供自己学习使用。
 #### 介绍
 MindSchool在线学习平台后端
 
